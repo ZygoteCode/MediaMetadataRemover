@@ -7,7 +7,7 @@ public class MediaMetadataRemover
 {
     public static void Main()
     {
-        Console.Title = "MediaMetadataRemover | Made by https://github.com/GabryB03/";
+        Console.Title = "MediaMetadataRemover | Made by https://github.com/ZygoteCode/";
 
         if (!Directory.Exists("inputs"))
         {
